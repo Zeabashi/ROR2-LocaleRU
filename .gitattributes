@@ -1,0 +1,2 @@
+# forces git to keep stuff at LF cause it told me it'll replace LF with CRLF
+*.language text eol=lf
